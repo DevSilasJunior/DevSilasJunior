@@ -137,7 +137,6 @@
   />
 
 </p>
-![snake gif](https://github.com/DevSilasJunior/DevSilasJunior/blob/output/github-contribution-grid-snake.svg)
 
 [![readme](https:github-readme-stats.vercel.app/api/pin/?username=DevSilasJunior&repo=DevSilasJunior&theme=react)](https://github.com/DevSilasJunior/DevSilasJunior)
 
