@@ -138,5 +138,4 @@
 
 </p>
 
-[![readme](https:github-readme-stats.vercel.app/api/pin/?username=DevSilasJunior&repo=DevSilasJunior&theme=react)](https://github.com/DevSilasJunior/DevSilasJunior)
 
