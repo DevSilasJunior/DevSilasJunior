@@ -137,3 +137,5 @@
   />
 
 </p>
+![snake gif](https://github.com/DevSilasJunior/DevSilasJunior/blob/output/github-contribution-grid-snake.svg)
+
