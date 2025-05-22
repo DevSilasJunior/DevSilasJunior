@@ -124,7 +124,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="195" 
+    height="190" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=DevSilasJunior&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
@@ -132,7 +132,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="195" 
+      height="190" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSilasJunior&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
